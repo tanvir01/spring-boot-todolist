@@ -1,5 +1,5 @@
 # spring-boot-todolist
-This is todolist application built in spring boot.
+This is a Todo List Application built in Spring Boot.
 
 Instructions:
 
